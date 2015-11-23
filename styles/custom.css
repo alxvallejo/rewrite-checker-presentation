@@ -1,0 +1,9 @@
+.reveal div .big-image-container {
+	max-height:80%;
+	max-width:70%;
+	margin:0 auto;
+}
+.reveal section img.big-image {
+	width:80%;
+	margin:0 auto;
+}
