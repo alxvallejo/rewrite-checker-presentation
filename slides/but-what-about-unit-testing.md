@@ -6,6 +6,7 @@
 		<ul>
 			<li>SSL certificate resolving</li>
 			<li>Login cookies</li>
+			<li>Setting the user agent</li>
 			<li>Setting the hostname</li>
 		</ul>
 	</li>
