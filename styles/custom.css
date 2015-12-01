@@ -3,7 +3,20 @@
 	max-width:70%;
 	margin:0 auto;
 }
-.reveal section img.big-image {
-	width:80%;
+.reveal img.big-image {
+	//max-width:100%;
+	height:auto;
 	margin:0 auto;
+}
+
+.right {
+	float:right;
+}
+
+.left {
+	float:left;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+	font-family: "Nunito";
 }
