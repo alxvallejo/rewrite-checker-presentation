@@ -1,13 +1,14 @@
 [
     "index.md",
-    "intro.md",
-    "intro-2.md",
     "cctlds.md",
     "multilingual-multiplication.md",
     "but-what-about-unit-testing.md",
     "for-developers.md",
     "testing.md",
     "confidence.md",
+    "how-it-works.md",
+    "intro.md",
+    "intro-2.md",
     "for-clients.md",
     "end.md"
 ]
